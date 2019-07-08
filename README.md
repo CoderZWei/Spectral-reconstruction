@@ -1,1 +1,1 @@
-# Spectral-reconstruction
+# Spectral Reconstruction
